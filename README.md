@@ -1,4 +1,4 @@
-# MoonShinHyuk 🌕
+# MoonShinHyuk
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonshinhyuk%2Fhit-counter&count_bg=%23007DFF&title_bg=%23000000&icon=reactos.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/Moonshinhyuk?style=social)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anstlsgur7901" width="500">
