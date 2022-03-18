@@ -12,9 +12,9 @@
 ![followers](https://img.shields.io/github/followers/Moonshinhyuk?style=social)
 
 
-<center>
+<div align="center">
 # Hello World! 👋
-</center> 
+</div>
 
 ### Language
 - python
