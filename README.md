@@ -1,5 +1,5 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Moonshinhyuk" height="150">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Moonshinhyuk">
   
 # MoonShinHyuk 🌕
 
@@ -10,23 +10,17 @@
   
   
   
-  
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anstlsgur7901" height="150" width="320">
+ 
 
 # Tech
   
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anstlsgur7901">  
+
+  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  
-  
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-  
-  
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
-  
-  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  
-  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   
 
