@@ -1,7 +1,6 @@
 # MoonShinHyuk
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
+![깜놀하는햄스터](https://user-images.githubusercontent.com/73520866/159020204-926d8b0c-7b2b-4b8f-b352-6043b6d094c6.jpeg)
 ## Hi there 👋
 
 ### Language 👍
