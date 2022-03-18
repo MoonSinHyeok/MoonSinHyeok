@@ -5,7 +5,7 @@
 
 <p>
 <div class=pull-left>
-https://user-images.githubusercontent.com/73520866/159020204-926d8b0c-7b2b-4b8f-b352-6043b6d094c6.jpeg width="20%" height="20%"
+<img src = "https://user-images.githubusercontent.com/73520866/159020204-926d8b0c-7b2b-4b8f-b352-6043b6d094c6.jpeg" width="20%" height="20%" >
 <center>사진정보 Photo info</center>
 </div>
 
