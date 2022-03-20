@@ -3,10 +3,14 @@
 ![followers](https://img.shields.io/github/followers/Moonshinhyuk?style=social)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anstlsgur7901" width="400">
 
+<br/><br/>
+
 # ⚒ Tech Stack ⚒
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   
   
+<br/><br/>
+<br/><br/>
   
   
 # 👋 Hello World! 👋
