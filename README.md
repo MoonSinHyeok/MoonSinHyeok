@@ -30,7 +30,7 @@ public class HelloWorld {
 ```c
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     printf("Hello, world!\n");
 
