@@ -32,7 +32,7 @@ public class HelloWorld {
 
 int main(void)
 {
-    printf("Hello, world!\n");
+    printf("Hello, World!");
 
     return 0;
 }
