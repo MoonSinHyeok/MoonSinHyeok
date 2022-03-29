@@ -45,7 +45,7 @@ public class HelloWorld {
 
 int main(void)
 {
-    printf("Hello, World!");
+    printf("Hello World!");
 
     return 0;
 }
