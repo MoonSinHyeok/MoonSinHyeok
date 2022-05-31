@@ -9,15 +9,6 @@
 # ⚒ Tech Stack ⚒  
 
 
-<div align="left">
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moonshinhyuk&show_icons=true&theme=dark)
-
-
-</div>
-
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>ㅤ
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>ㅤ
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>ㅤ
