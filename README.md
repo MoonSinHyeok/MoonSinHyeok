@@ -41,6 +41,7 @@ int main(void)
     return 0;
 }
 ```
+<br/><br/>
 
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anstlsgur7901" width="400">
