@@ -43,4 +43,4 @@ int main(void)
 ```
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anstlsgur7901" width="400">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anstlsgur7901" width="400">
